@@ -1,3 +1,5 @@
+# shell script to find the greatest of three numbers
+
 echo "Enter Num1"
 read num1
 echo "Enter Num2"
